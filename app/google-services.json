@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "284921431840",
+    "firebase_url": "https://mtranslate-f5c8e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mtranslate-f5c8e",
+    "storage_bucket": "mtranslate-f5c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284921431840:android:a98fec779b74311a95f945",
+        "android_client_info": {
+          "package_name": "com.nikhildev.mtranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284921431840-qlpek0pb2cg4vmnqsv6ced8eo0pjvrk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhildev.mtranslate",
+            "certificate_hash": "4a34c7c3874da2d8aaba920a96c726c7e8aa494f"
+          }
+        },
+        {
+          "client_id": "284921431840-tfaiuepf8284t8pmvbbl0n5sbicg939i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhildev.mtranslate",
+            "certificate_hash": "73d20401efcc6c292373f7e1cbdcef5ac3384d88"
+          }
+        },
+        {
+          "client_id": "284921431840-rtbv9tplkphdfurfitbsmdh6gvrdg055.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqFBjz1JkPuOKiXGI6-Ex10p2-2VKdNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284921431840-rtbv9tplkphdfurfitbsmdh6gvrdg055.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

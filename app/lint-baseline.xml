@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 8.3.0" type="baseline" client="gradle" dependencies="false" name="AGP (8.3.0)" variant="fatal" version="8.3.0">
+
+    <issue
+        id="Instantiatable"
+        message="`ShowTranslationsFragment` must extend android.app.Activity"
+        errorLine1="            android:name=&quot;.ShowTranslationsFragment&quot;"
+        errorLine2="                          ~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/AndroidManifest.xml"
+            line="20"
+            column="27"/>
+    </issue>
+
+</issues>
